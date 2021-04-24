@@ -9,7 +9,6 @@ app = Ursina()
 
 window.fps_counter.enabled = False
 window.exit_button.visible = False
-window.fullscreen = True
 sky_texture = load_texture('assets/skybox.png')
 hits = 0
 current_time = 0
